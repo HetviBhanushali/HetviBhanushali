@@ -1,102 +1,69 @@
-# Hi 👋, I'm Hetvi Bhanushali
+<div align="center">
 
-### 🚀 Aspiring Software Developer | Lifelong Learner | Tech Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=190&section=header&text=Hetvi&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%E2%80%A2%20Pattern%20Finder%20%E2%80%A2%20Explorer&descSize=18&descAlignY=60" alt="Hetvi banner" width="100%"/>
 
-I'm a Computer Science student passionate about programming, problem-solving, and building real-world applications. I enjoy learning new technologies and continuously improving my development skills.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=2E7D32&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Hetvi;I+build+things+people+can+actually+use;Android+%C2%B7+AI%2FML+%C2%B7+DSA;Always+chasing+patterns+and+new+horizons" alt="Typing animation" />
+</a>
 
----
+<br/>
 
-## 🌱 Currently Learning
+<img src="./assets/kitten.svg" width="130" alt="Animated kitten"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/puppy.svg" width="130" alt="Animated puppy"/>
 
-* Python
-* Java
-* C & C++
-* Data Structures & Algorithms
-* Linux
-* Frontend Web Development
-* Git & GitHub
+<sub>My two favourite code reviewers. Zero bugs found, unlimited cuddles.</sub>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+</div>
 
-### Languages
+## 🌱 My Story So Far
 
-* Python
-* Java
-* C
-* C++
+Every project I've built started with one small question: *"Would someone actually use this?"*
 
-### Web Technologies
+I love building things that leave my laptop and land in real people's hands. That's why I'm drawn to **Android development**, where an idea becomes an app in someone's pocket, and to **AI/ML**, where a model can learn to help people in ways that once felt impossible.
 
-* HTML
-* CSS
-* JavaScript
+Between builds, I solve **DSA problems**, because I love finding patterns. A tangled problem slowly reveals its shape, and suddenly it makes sense. That feeling never gets old.
 
-### Tools & Platforms
+Right now I'm growing one commit at a time, with a bigger dream behind it: to build real-world products and to **explore the world** beyond the screen, one new place and one new idea at a time. 🌍
 
-* Git
-* GitHub
-* VS Code
-* Linux
-* Jupyter Notebook
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
----
+## 🌿 Languages I Speak
 
-## 🎯 Goals for 2026
+<div align="center">
 
-* Build impactful real-world projects
-* Master Data Structures and Algorithms
-* Become an Advanced Full-Stack Developer
-* Participate in Hackathons
-* Contribute to Open Source Projects
-* Strengthen Problem-Solving Skills
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,kotlin&perline=7" alt="Python, HTML, CSS, JavaScript, TypeScript, Java, Kotlin"/>
 
----
+</div>
 
-## 📂 Featured Projects
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-### ⭐ Student Marks Analyzer
+## 🌳 Things I've Grown
 
-Analyze student performance using CSV files and Python libraries such as Pandas and NumPy.
+| Project | What it does | Built with |
+|---|---|---|
+| **🩺 MediLingua** | Bilingual (English–Gujarati) question answering over medicine leaflets, making drug information accessible to more people | Python, NLP, ML |
+| **📍 DocFinder** | Android app that helps people find nearby doctors quickly | Kotlin, Firebase, Google Maps |
+| **🛡️ InternShield** | AI-powered detector that flags fake internship offers as Safe, Suspicious, or High Risk, with explanations | Python, ML |
+| **⚛️ PhysiSVG Labs** | Interactive SVG-based physics simulations for virtual labs at VLab SAKEC | JavaScript, SVG, React |
+| **📊 Pulse Insights** | Social media analytics dashboards that turn raw engagement data into stories | Power BI, Tableau |
 
-### ⭐ Python Calculator
+> Replace the project names with your own repo links, for example `[**MediLingua**](https://github.com/YOUR_USERNAME/medilingua)`.
 
-A beginner-friendly calculator project implementing arithmetic operations and user input handling.
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-### ⭐ Data Structures Practice
+<div align="center">
 
-Implementations of Linked Lists, Stacks, Queues, Trees, and Algorithms.
+### 🌸 A Thought I Carry With Me
 
-More exciting projects coming soon!
+*"The entire point of life is to take a chance on dreams that seem crazy to most but feel like destiny to you."*
 
----
+<br/>
 
-## 📊 GitHub Statistics
+<img src="./assets/kitten.svg" width="70" alt=""/> <img src="./assets/puppy.svg" width="70" alt=""/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HetviBhanushali\&show_icons=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e063,100:56ab2f&height=110&section=footer" alt="footer" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetviBhanushali\&layout=compact)
-
----
-
-## 📚 What I'm Working On
-
-* Improving programming fundamentals
-* Learning software development best practices
-* Building portfolio projects
-* Exploring open-source contributions
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/HetviBhanushali
-
----
-
-### 💡 Favorite Quote
-
-"Success is the sum of small efforts repeated day in and day out."
-
-⭐ Thanks for visiting my profile!
+</div>
